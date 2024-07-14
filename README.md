@@ -27,11 +27,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/poland-national-football-team.git
+   git clone https://github.com/Fabbio-Studios/Poland-Footbal-Team-Web-Site-Unnoficial-.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd poland-national-football-team
+   cd Poland-Footbal-Team-Web-Site-Unnoficial-
    ```
 3. Open `index.html` in your preferred web browser.
 
@@ -66,10 +66,10 @@ Para executar este projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seunome/poland-national-football-team.git
+   git clone https://github.com/Fabbio-Studios/Poland-Footbal-Team-Web-Site-Unnoficial-.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd poland-national-football-team
+   cd https://github.com/Fabbio-Studios/Poland-Footbal-Team-Web-Site-Unnoficial-
    ```
 3. Abra o `index.html` no seu navegador web preferido.
