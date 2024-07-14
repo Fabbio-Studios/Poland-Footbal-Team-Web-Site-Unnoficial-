@@ -1,54 +1,75 @@
-# Poland-Footbal-Team-Web-Site-Unnoficial-
+## README - English Version
 
-![Seleção Polonesa](https://upload.wikimedia.org/wikipedia/en/1/12/Poland_national_team_logo.png)
+# Unofficial Poland National Football Team Website
 
-Bem-vindo ao repositório do site não oficial da Seleção de Futebol da Polônia! Este projeto foi desenvolvido com a finalidade de testar e aprimorar minhas habilidades com HTML, CSS e JavaScript.
+Welcome to the Unofficial Poland National Football Team Website repository! This project was developed to test and enhance my skills in HTML, CSS, and JavaScript.
 
-## Descrição
+## Project Description
 
-Este site foi criado para demonstrar minha capacidade de desenvolver uma página web informativa e visualmente agradável, utilizando as tecnologias básicas da web. O site inclui informações sobre a seleção de futebol da Polônia, sua história, jogadores, e resultados de partidas.
+This website serves as an unofficial fan page for the Poland National Football Team. It includes various sections such as team news, player profiles, match schedules, and more. The site is fully responsive and designed to provide an engaging user experience.
 
-## Tecnologias Utilizadas
+## Features
 
-- **HTML**: Estrutura do site
-- **CSS**: Estilização e layout
-- **JavaScript**: Funcionalidades interativas
+- **Team News**: Stay updated with the latest news about the Poland National Football Team.
+- **Player Profiles**: Learn more about your favorite players.
+- **Match Schedules**: Keep track of upcoming matches and results.
+- **Responsive Design**: The site is optimized for both desktop and mobile devices.
 
-## Funcionalidades
+## Technologies Used
 
-- **Página Principal**: Informações gerais sobre a seleção
-- **Jogadores**: Lista de jogadores com detalhes
-- **História**: Resumo histórico da seleção
-- **Resultados**: Resultados de partidas recentes
+- **HTML**: Structure of the web pages.
+- **CSS**: Styling and layout of the web pages.
+- **JavaScript**: Interactive elements and functionality.
 
-## Instalação e Uso
+## Installation
 
-1. Clone o repositório para sua máquina local:
-    ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    ```
+To run this project locally, follow these steps:
 
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd nome-do-repositorio
-    ```
-
-3. Abra o arquivo `index.html` no seu navegador preferido.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, correções de bugs ou novas funcionalidades.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-- **Nome**: Seu Nome
-- **Email**: seu-email@example.com
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/poland-national-football-team.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd poland-national-football-team
+   ```
+3. Open `index.html` in your preferred web browser.
 
 ---
 
-Espero que isso atenda às suas necessidades! Se precisar de mais alguma coisa, é só avisar.
+## README - Versão em Português
+
+# Site Não Oficial da Seleção de Futebol da Polônia
+
+Bem-vindo ao repositório do Site Não Oficial da Seleção de Futebol da Polônia! Este projeto foi desenvolvido com a finalidade de testar e aprimorar minhas habilidades em HTML, CSS e JavaScript.
+
+## Descrição do Projeto
+
+Este site serve como uma página de fãs não oficial da Seleção de Futebol da Polônia. Inclui várias seções como notícias do time, perfis de jogadores, horários de partidas e muito mais. O site é totalmente responsivo e projetado para proporcionar uma experiência de usuário envolvente.
+
+## Funcionalidades
+
+- **Notícias do Time**: Fique atualizado com as últimas notícias sobre a Seleção de Futebol da Polônia.
+- **Perfis de Jogadores**: Conheça mais sobre seus jogadores favoritos.
+- **Horários de Partidas**: Acompanhe os próximos jogos e resultados.
+- **Design Responsivo**: O site é otimizado para dispositivos desktop e móveis.
+
+## Tecnologias Utilizadas
+
+- **HTML**: Estrutura das páginas web.
+- **CSS**: Estilização e layout das páginas web.
+- **JavaScript**: Elementos interativos e funcionalidade.
+
+## Instalação
+
+Para executar este projeto localmente, siga estas etapas:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seunome/poland-national-football-team.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd poland-national-football-team
+   ```
+3. Abra o `index.html` no seu navegador web preferido.
